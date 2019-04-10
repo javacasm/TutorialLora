@@ -1,5 +1,13 @@
 # TutorialLora
 
+## Recursos
+
+[Videotutorial setup a LoRa Gateway](https://www.youtube.com/watch?v=KAR8pJihhIo&feature=youtu.be)
+
+[Recursos sobre Lora](https://github.com/G4lile0/Comunicaciones_LoRa)
+
+[Tutorial sobre LoRa ttn de Bricolabs](https://bricolabs.cc/wiki/guias/lora_ttn)
+
 [Tutoriales Andreas Spiess](https://www.youtube.com/playlist?list=PL3XBzmAj53Rkkogh-lti58h_GkhzU1n7U)
 
 [Libro](http://cdn2.hubspot.net/hubfs/427771/LPWAN-Brochure-Interactive.pdf)
