@@ -14,4 +14,6 @@
 
 [Kit Lora para Raspberry](https://es.aliexpress.com/item/LoraWAN-Kit-de-iniciaci-n-RAK831-con-Raspberry-Pi-y-WisNode-LoRa-SX1301-Chip-433-868/32839320324.html)
 
-[Lora gateway por 15$](https://www.hackster.io/akarsh98/15-lora-gateway-node-esp8266-oled-display-pcb-build-c700be?utm_campaign=new_projects_default&utm_content=3&utm_medium=email&utm_source=hackster&utm_term=project_name)
+[Lora gateway por 15$](https://www.hackster.io/akarsh98/15-lora-gateway-node-esp8266-oled-display-pcb-build-c700be)
+
+[Charla sobre Lora](https://github.com/alexcorvis84/LoRa_MakersAsturias)
